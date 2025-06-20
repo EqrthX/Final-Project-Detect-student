@@ -1,0 +1,12 @@
+# admin 
+admin@1
+admin@1
+
+
+# users
+U: ekkarin1
+P: ekkarin1
+
+U: jedsada1
+P: jedsada1
+
